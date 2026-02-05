@@ -14,7 +14,7 @@ This Python script connects to an Arista CloudVision Portal (CVP) instance and g
 
 ### 1. Clone or download this repository
 ```bash
-git clone <repository-url>
+git clone https://github.com/arista-cam/eol_check.git
 cd eol_check
 ```
 
