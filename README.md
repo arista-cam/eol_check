@@ -62,7 +62,7 @@ client.connect(
 
 ### Run the script
 ```bash
-python eol_report.py
+python eol.py
 ```
 
 ### Output
